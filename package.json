@@ -1,0 +1,19 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "description": "Express api",
+  "author": "Chris Yang <ybagyang@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "googlemaps": "*",
+    "jsonwebtoken": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "password-hash": "*"
+  }
+}
