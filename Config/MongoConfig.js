@@ -3,4 +3,4 @@
  */
 var exports = module.exports = {};
 
-exports.mongoUrl = 'mongodb://jabue:jabue@localhost:27017/jabuecloud';
+exports.mongoUrl = 'mongodb://jabue:jabue@ds133158.mlab.com:33158/shandong';

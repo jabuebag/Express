@@ -9,7 +9,7 @@ var app = express();
 var router = express.Router();
 
 // connect mongo db
-//dbManager.connectMonogoDB();
+dbManager.connectMonogoDB();
 
 // use body parser so we can get info from POST and/or URL parameters
 expressManager.setBodyParser(app);
